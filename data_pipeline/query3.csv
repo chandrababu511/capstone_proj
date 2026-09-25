@@ -1,0 +1,11 @@
+book_id,title,price_gbp,price_inr,rating,in_stock,category_id
+1,A Light in the Attic,,,3,1,1
+2,Tipping the Velvet,,,1,1,1
+3,Soumission,,,1,1,1
+4,Sharp Objects,,,4,1,1
+5,Sapiens: A Brief History of Humankind,,,5,1,1
+6,The Requiem Red,,,1,1,1
+7,The Dirty Little Secrets of Getting Your Dream Job,,,4,1,1
+8,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",,,3,1,1
+9,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,,,4,1,1
+10,The Black Maria,,,1,1,1
